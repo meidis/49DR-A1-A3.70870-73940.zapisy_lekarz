@@ -1,0 +1,29 @@
+﻿<Window x:Class="Zadanie_4.Ui.AddNewSpecialist"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:Zadanie_4.Ui"
+      mc:Ignorable="d"
+      Title="AddNewDoctor" Height="250px" Width="300">
+    <Grid>
+        <StackPanel Margin="2">
+            <Label HorizontalAlignment="Center" FontSize="18px" Content="Dodaj specjalistę" />
+            <Separator Margin="2" />
+            <WrapPanel Margin="2">
+                <Label Content="Imię i nazwisko" />
+                <TextBox Name="FullName" Width="170px" />
+            </WrapPanel>
+            <WrapPanel>
+                <Label Content="Lokalizacja" />
+                <ComboBox Name="Localizations" Margin="25 2 2 2" Width="170px" />
+            </WrapPanel>
+            <WrapPanel>
+                <Label Content="Specjalizacja" />
+                <ComboBox Name="Specializations" Margin="16 2 2 2" Width="170px" />
+            </WrapPanel>
+            
+            <Button Click="AddNewSpecialistOnClick" Content="Dodaj" Margin=" 10"></Button>
+        </StackPanel>
+    </Grid>
+</Window>

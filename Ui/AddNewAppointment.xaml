@@ -1,0 +1,47 @@
+﻿<Window x:Class="Zadanie_4.Ui.AddNewAppointment"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:local="clr-namespace:Zadanie_4.Ui"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        mc:Ignorable="d"
+        Title="AddNewAppointment" Height="650" Width="850">
+    <Grid>
+        <StackPanel>
+            <WrapPanel HorizontalAlignment="Center">
+                <Label FontSize="18" Content="Dodaj wizytę" HorizontalAlignment="Center" Margin="5" />
+            </WrapPanel>
+            <Separator />
+            <WrapPanel Margin="10px">
+                <Label Content="Wybierz Miasto" />
+                <ComboBox SelectionChanged="Localizations_OnSelected" Name="Localizations" Width="150px" Height="25px" />
+                <Label Content="Wybierz Specjalizację" />
+                <ComboBox SelectionChanged="Specializations_OnSelected" Name="Specializations" IsEnabled="False"
+                          Width="150px" Height="25px" />
+                <Label Content="Wybierz Specjalistę" />
+                <ComboBox SelectionChanged="Specialists_OnSelectionChanged" Name="Specialists" IsEnabled="False"
+                          Width="150px" />
+            </WrapPanel>
+            <WrapPanel Margin="10" HorizontalAlignment="Center">
+
+                <Label Content="Wybierz Datę" />
+                <xctk:DateTimePicker ValueChanged="OccurenceDate_OnSelectedDateChanged" Name="OccurenceDate"
+                                     IsEnabled="False" Width="150px" />
+            </WrapPanel>
+            <Separator />
+            <WrapPanel>
+                <ListView SelectionMode="Single" VirtualizingStackPanel.IsVirtualizing="False" Name="AvailableAppointments" Height="300"
+                          Width="600px">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="Od" Width="300" DisplayMemberBinding="{Binding StartDate }" />
+                            <GridViewColumn Header="Do" Width="300" DisplayMemberBinding="{Binding EndDate }" />
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+            </WrapPanel>
+            <Button Width="150px" Margin="15" Name="AddAppointment" Click="AddAppointment_OnClick" Content="Dodaj wizytę"></Button>
+        </StackPanel>
+    </Grid>
+</Window>

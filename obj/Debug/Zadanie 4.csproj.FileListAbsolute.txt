@@ -1,0 +1,39 @@
+C:\Projects\Zadanie 4\Zadanie 4\obj\Debug\Zadanie 4.csprojAssemblyReference.cache
+C:\Projects\Zadanie 4\Zadanie 4\obj\Debug\MainWindow.g.cs
+C:\Projects\Zadanie 4\Zadanie 4\obj\Debug\App.g.cs
+C:\Projects\Zadanie 4\Zadanie 4\obj\Debug\Zadanie_4_MarkupCompile.cache
+C:\Projects\Zadanie 4\Zadanie 4\obj\Debug\Zadanie_4_MarkupCompile.lref
+C:\Projects\Zadanie 4\Zadanie 4\bin\Debug\Zadanie_4.exe.config
+C:\Projects\Zadanie 4\Zadanie 4\bin\Debug\Zadanie_4.exe
+C:\Projects\Zadanie 4\Zadanie 4\bin\Debug\Zadanie_4.pdb
+C:\Projects\Zadanie 4\Zadanie 4\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Zadanie 4\Zadanie 4\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Zadanie 4\Zadanie 4\obj\Debug\MainWindow.baml
+C:\Projects\Zadanie 4\Zadanie 4\obj\Debug\Zadanie_4.g.resources
+C:\Projects\Zadanie 4\Zadanie 4\obj\Debug\Zadanie_4.Properties.Resources.resources
+C:\Projects\Zadanie 4\Zadanie 4\obj\Debug\Zadanie 4.csproj.GenerateResource.cache
+C:\Projects\Zadanie 4\Zadanie 4\obj\Debug\Zadanie 4.csproj.CoreCompileInputs.cache
+C:\Projects\Zadanie 4\Zadanie 4\obj\Debug\Zadanie 4.csproj.CopyComplete
+C:\Projects\Zadanie 4\Zadanie 4\obj\Debug\Zadanie_4.exe
+C:\Projects\Zadanie 4\Zadanie 4\obj\Debug\Zadanie_4.pdb
+C:\Projects\Zadanie 4\Zadanie 4\obj\Debug\Ui\AddNewSpecialist.g.cs
+C:\Projects\Zadanie 4\Zadanie 4\obj\Debug\Ui\AddNewSpecialist.baml
+C:\Projects\Zadanie 4\Zadanie 4\obj\Debug\Ui\AddNewAppointment.g.cs
+C:\Projects\Zadanie 4\Zadanie 4\obj\Debug\Ui\AddNewAppointment.baml
+C:\Projects\Zadanie 4\Zadanie 4\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Projects\Zadanie 4\Zadanie 4\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Projects\Zadanie 4\Zadanie 4\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Projects\Zadanie 4\Zadanie 4\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Projects\Zadanie 4\Zadanie 4\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Projects\Zadanie 4\Zadanie 4\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Projects\Zadanie 4\Zadanie 4\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Projects\Zadanie 4\Zadanie 4\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Projects\Zadanie 4\Zadanie 4\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Projects\Zadanie 4\Zadanie 4\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Projects\Zadanie 4\Zadanie 4\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Projects\Zadanie 4\Zadanie 4\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Projects\Zadanie 4\Zadanie 4\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Projects\Zadanie 4\Zadanie 4\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Projects\Zadanie 4\Zadanie 4\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Projects\Zadanie 4\Zadanie 4\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Projects\Zadanie 4\Zadanie 4\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
